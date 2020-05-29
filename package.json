@@ -1,0 +1,14 @@
+{
+  "name": "Michele Tognin",
+  "version": "1.0.0",
+  "description": "Michele Tognin",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
